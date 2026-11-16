@@ -1,0 +1,25 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Temporary and scratch scripts
+_*
+cek_nb.py
+
+# Conda / Python virtualenv
+.env
+.venv
+env/
+venv/
+ENV/
+
+# Large temporary/cache data
+uas-ra-kelompok1/data/raw/cache/
+*.zip
+
+# OS / Editor files
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/

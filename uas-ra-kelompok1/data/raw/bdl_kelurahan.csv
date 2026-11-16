@@ -1,0 +1,127 @@
+kode_prov,nama_prov,kode_kab,nama_kab,kode_kec,nama_kec,kode_des,nama_des,status_daerah,kode_permendagri,lat,north_south,lon,altitude,dm_pantai,jml_jenjang_sls,jml_sls,topo,status_kantor_lurah,kondisi_kantor_lurah,lokasi_kantor_lurah,dm_dilalui_sutet,dm_permukiman_sutet,jml_bangunan_sutet,jml_tk_negeri,jml_tk_swasta,jml_ra_ba_negeri,jml_ra_ba_swasta,kepadatan_pddk,lap_usaha_sebagian_warga,jml_sd_negeri,jml_sd_swasta,jml_smp_negeri,jml_smp_swasta
+18,Lampung,71,Kota Bandar Lampung,10,Teluk Betung Barat,5,Bakung,1,1871081005,5.4549208780046,2,105.24831377392,18.0,2,2,18,3,2,1,1,2,,,0,2,0,0,6479,6,2,0,2,0
+18,Lampung,71,Kota Bandar Lampung,10,Teluk Betung Barat,6,Kuripan,1,1871081006,5.4488787960772,2,105.25438706955,12.0,2,2,13,3,2,1,1,2,,,0,0,0,0,16321,6,0,0,0,1
+18,Lampung,71,Kota Bandar Lampung,10,Teluk Betung Barat,7,Negeri Olok Gading,1,1871081007,5.4457351298345,2,105.24656580631,31.0,2,2,15,3,2,1,1,2,,,0,1,0,0,7761,6,1,0,1,0
+18,Lampung,71,Kota Bandar Lampung,10,Teluk Betung Barat,8,Sukarame Ii,2,1871081008,5.4405402771072,2,105.24116583493,77.0,2,2,23,3,2,1,1,2,,,0,3,0,0,1514,6,1,0,0,0
+18,Lampung,71,Kota Bandar Lampung,10,Teluk Betung Barat,11,Batu Putuk,1,1871081009,5.436183735378,2,105.22363264959,148.0,2,2,27,3,2,1,1,1,2,,0,1,0,0,2214,6,2,0,0,2
+18,Lampung,71,Kota Bandar Lampung,11,Telukbetung Timur,1,Sukamaju,1,1871191005,5.4638524574146,2,105.24803285055,30.8,1,2,17,3,2,1,1,2,,,2,1,0,0,1158,17,1,0,1,0
+18,Lampung,71,Kota Bandar Lampung,11,Telukbetung Timur,2,Keteguhan,1,1871191004,5.4622338037322,2,105.24958907682,9.0,1,2,24,3,2,1,1,2,,,1,5,0,0,4260,1,3,0,0,0
+18,Lampung,71,Kota Bandar Lampung,11,Telukbetung Timur,3,Kota Karang,1,1871191001,5.4541048625118,2,105.26064318833,20.0,1,2,22,3,2,1,1,2,,,1,1,0,0,43907,1,3,0,1,0
+18,Lampung,71,Kota Bandar Lampung,11,Telukbetung Timur,4,Perwata,1,1871191003,5.4545596908192,2,105.25286651609,6.0,2,2,13,3,2,1,1,2,,,0,0,0,0,21630,17,0,0,0,0
+18,Lampung,71,Kota Bandar Lampung,11,Telukbetung Timur,9,Way Tataan,1,1871191006,5.483075642056,2,105.25209955071,29.0,1,2,10,3,2,1,1,2,,,0,0,0,0,687,1,1,0,0,0
+18,Lampung,71,Kota Bandar Lampung,11,Telukbetung Timur,10,Kota Karang Raya,1,1871191002,5.4584034359273,2,105.2562866466,13.0,1,2,15,3,2,1,1,2,,,0,0,0,0,23796,1,1,0,0,0
+18,Lampung,71,Kota Bandar Lampung,20,Teluk Betung Selatan,1,Gedong Pakuon,1,1871071009,5.4393853699344,2,105.25311176665,67.7,2,2,16,3,2,1,1,1,2,,0,0,0,0,13067,17,0,0,1,0
+18,Lampung,71,Kota Bandar Lampung,20,Teluk Betung Selatan,2,Talang,1,1871071008,5.4454854201755,2,105.25896656634,62.5,2,2,29,3,2,1,1,2,,,0,0,0,0,19524,6,6,0,1,0
+18,Lampung,71,Kota Bandar Lampung,20,Teluk Betung Selatan,3,Pesawahan,1,1871071001,5.4504662360522,2,105.26195416404,29.1,1,2,48,3,2,1,1,2,,,0,7,0,0,18795,7,2,4,0,2
+18,Lampung,71,Kota Bandar Lampung,20,Teluk Betung Selatan,4,Teluk Betung,1,1871071002,5.444780882209,2,105.26885239337,9.5,2,2,20,3,2,1,1,2,,,0,0,0,0,25011,7,1,0,0,0
+18,Lampung,71,Kota Bandar Lampung,20,Teluk Betung Selatan,13,Sumur Putri,1,1871071012,5.4360321259422,2,105.24967825884,62.5,2,2,13,3,2,1,1,2,,,0,6,0,0,6696,7,3,3,0,2
+18,Lampung,71,Kota Bandar Lampung,20,Teluk Betung Selatan,14,Gunung Mas,1,1871071013,5.4426360546023,2,105.26663176105,19.0,2,2,16,3,2,1,1,2,,,0,1,0,0,2539,7,0,1,0,1
+18,Lampung,71,Kota Bandar Lampung,21,Bumi Waras,1,Kangkung,1,1871201005,5.4498107481973,2,105.26738534912,7.0,1,2,27,3,2,1,1,2,,,0,2,0,0,11415,1,0,2,0,2
+18,Lampung,71,Kota Bandar Lampung,21,Bumi Waras,2,Bumi Waras,1,1871201002,5.4452178741123,2,105.27605830067,7.0,1,2,45,3,2,1,1,2,,,0,2,0,0,6422,7,5,0,0,0
+18,Lampung,71,Kota Bandar Lampung,21,Bumi Waras,3,Bumi Raya,1,1871201004,5.4400765305976,2,105.28311705764,9.0,2,2,15,2,2,1,1,2,,,0,1,0,2,2662,7,1,1,0,1
+18,Lampung,71,Kota Bandar Lampung,21,Bumi Waras,4,Sukaraja,1,1871201001,5.4427609094318,2,105.28688499803,8.0,1,2,36,3,2,1,1,2,,,0,1,0,1,4193,7,5,0,1,0
+18,Lampung,71,Kota Bandar Lampung,21,Bumi Waras,5,Garuntang,1,1871201003,5.4428233368466,2,105.29497380734,14.0,2,2,26,2,2,1,1,2,,,0,0,0,0,4496,7,1,0,0,1
+18,Lampung,71,Kota Bandar Lampung,30,Panjang,1,Srengsem,1,1871041002,5.4952935789425,2,105.33286278899,29.0,1,2,23,2,2,1,1,1,2,,0,3,0,0,3559,3,2,0,2,0
+18,Lampung,71,Kota Bandar Lampung,30,Panjang,2,Panjang Selatan,1,1871041001,5.4790847466132,2,105.3239980961,10.0,1,2,37,2,2,1,1,2,,,0,8,0,2,12750,17,1,4,0,2
+18,Lampung,71,Kota Bandar Lampung,30,Panjang,3,Panjang Utara,1,1871041003,5.4698187346241,2,105.322317015,11.0,1,2,49,3,2,1,1,2,,,0,2,0,2,11152,17,3,0,0,0
+18,Lampung,71,Kota Bandar Lampung,30,Panjang,4,Pidada,1,1871041004,5.4635314021388,2,105.32437266059,29.0,1,2,41,2,2,1,1,2,,,0,3,0,0,3941,3,1,1,0,1
+18,Lampung,71,Kota Bandar Lampung,30,Panjang,9,Karang Maritim,1,1871041007,5.4868168278399,2,105.32675382055,14.0,1,2,27,2,2,1,1,2,,,0,2,0,0,10134,3,1,1,1,1
+18,Lampung,71,Kota Bandar Lampung,30,Panjang,10,Way Lunik,1,1871041008,5.4458332300576,2,105.30733443546,8.0,1,2,35,2,2,1,1,2,,,0,1,0,0,3241,3,3,0,0,0
+18,Lampung,71,Kota Bandar Lampung,30,Panjang,11,Ketapang,1,1871041009,5.437517006593,2,105.29971383176,34.0,2,2,8,2,2,1,1,2,,,0,0,0,0,4853,8,1,0,2,0
+18,Lampung,71,Kota Bandar Lampung,30,Panjang,12,Ketapang Kuala,1,1871041010,5.4457529662387,2,105.30244280161,6.0,2,2,7,3,2,1,1,2,,,0,0,0,0,3001,8,0,0,0,0
+18,Lampung,71,Kota Bandar Lampung,40,Tanjung Karang Timur,2,Kota Baru,1,1871051002,5.4176784660062,2,105.26653366082,90.0,2,2,36,3,2,1,1,2,,,0,4,0,0,12524,9,1,0,0,2
+18,Lampung,71,Kota Bandar Lampung,40,Tanjung Karang Timur,3,Tanjung Agung,1,1871051003,5.4116453022809,2,105.26700632553,90.0,2,2,9,3,2,1,1,2,,,0,1,0,0,37717,17,1,0,0,0
+18,Lampung,71,Kota Bandar Lampung,40,Tanjung Karang Timur,4,Kebon Jeruk,1,1871051004,5.4085818998572,2,105.26184714562,97.0,2,2,19,2,2,1,1,2,,,0,3,0,0,26592,17,1,0,0,2
+18,Lampung,71,Kota Bandar Lampung,40,Tanjung Karang Timur,5,Sawah Lama,1,1871051005,5.407480501897,2,105.26353268581,96.0,2,2,18,3,2,1,1,2,,,0,1,0,0,35775,17,4,0,0,0
+18,Lampung,71,Kota Bandar Lampung,40,Tanjung Karang Timur,6,Sawah Brebes,1,1871051006,5.4064727450589,2,105.26622598285,93.0,2,2,27,3,2,1,1,2,,,0,1,0,0,26055,17,2,0,0,0
+18,Lampung,71,Kota Bandar Lampung,41,Kedamaian,1,Tanjung Gading,1,1871181007,5.425000309936,2,105.27513972586,81.0,2,2,15,3,2,1,1,2,,,1,2,0,0,2463,17,1,1,0,0
+18,Lampung,71,Kota Bandar Lampung,41,Kedamaian,2,Tanjung Raya,1,1871181006,5.4218165117838,2,105.27517539866,78.0,2,2,30,3,2,1,1,2,,,0,3,0,0,4219,17,1,0,0,0
+18,Lampung,71,Kota Bandar Lampung,41,Kedamaian,3,Kedamaian,1,1871181001,5.4099151710721,2,105.27210307804,87.0,2,2,18,3,2,1,1,2,,,0,3,0,0,5520,17,0,0,0,0
+18,Lampung,71,Kota Bandar Lampung,41,Kedamaian,4,Kalibalau Kencana,1,1871181005,5.3947943593999,2,105.28746022207,89.0,2,2,26,3,2,1,1,2,,,0,6,0,0,4638,17,1,1,0,1
+18,Lampung,71,Kota Bandar Lampung,41,Kedamaian,5,Tanjung Baru,1,1871181004,5.4089787598509,2,105.27907265299,88.0,2,2,17,3,2,1,1,2,,,0,6,0,0,4568,17,0,3,0,5
+18,Lampung,71,Kota Bandar Lampung,41,Kedamaian,6,Bumi Kedamaian,1,1871181002,5.4098349072532,2,105.28811570992,83.0,2,2,15,3,2,1,1,2,,,0,5,0,0,3925,13,2,1,0,0
+18,Lampung,71,Kota Bandar Lampung,41,Kedamaian,7,Tanjung Agung Raya,1,1871181003,5.4113688380156,2,105.26819244642,87.0,2,2,7,3,2,1,1,2,,,0,3,0,0,1004,17,1,0,1,1
+18,Lampung,71,Kota Bandar Lampung,50,Teluk Betung Utara,1,Kupang Kota,1,1871091001,5.4439514894131,2,105.2630288074,23.0,2,2,34,3,2,2,1,2,,,0,3,0,0,18985,7,1,1,1,1
+18,Lampung,71,Kota Bandar Lampung,50,Teluk Betung Utara,3,Kupang Teba,1,1871091004,5.4402638128419,2,105.27005635066,22.0,2,2,37,3,2,2,1,2,,,0,2,0,1,16611,6,2,0,0,0
+18,Lampung,71,Kota Bandar Lampung,50,Teluk Betung Utara,4,Kupang Raya,1,1871091003,5.4427163184213,2,105.27291463443,15.0,2,2,11,3,2,2,1,2,,,0,2,0,0,22159,17,1,1,0,0
+18,Lampung,71,Kota Bandar Lampung,50,Teluk Betung Utara,6,Sumur Batu,1,1871091008,5.4332451877838,2,105.26549914938,64.0,2,2,26,3,2,1,1,2,,,0,3,0,0,9911,6,1,2,1,2
+18,Lampung,71,Kota Bandar Lampung,50,Teluk Betung Utara,7,Gulak Galik,1,1871091007,5.4359652394264,2,105.25864105196,63.0,2,2,23,3,2,2,1,2,,,0,2,0,1,11713,17,3,0,2,1
+18,Lampung,71,Kota Bandar Lampung,50,Teluk Betung Utara,8,Pengajaran,1,1871091006,5.4328126549816,2,105.25312068485,63.0,2,2,20,3,2,2,1,2,,,0,3,0,0,5443,14,1,1,0,1
+18,Lampung,71,Kota Bandar Lampung,60,Tanjung Karang Pusat,1,Durian Payung,1,1871061001,5.4217585434701,2,105.24410884163,123.0,2,2,24,2,2,1,1,2,,,0,3,0,0,9283,7,1,1,0,3
+18,Lampung,71,Kota Bandar Lampung,60,Tanjung Karang Pusat,2,Gotong Royong,1,1871061002,5.4246212863464,2,105.25352646305,115.0,2,2,17,2,2,1,1,2,,,0,4,0,0,13793,14,1,2,2,0
+18,Lampung,71,Kota Bandar Lampung,60,Tanjung Karang Pusat,5,Palapa,1,1871061005,5.4042788673406,2,105.2566790475,103.0,2,2,19,2,2,1,1,2,,,0,2,0,0,12036,7,2,1,0,2
+18,Lampung,71,Kota Bandar Lampung,60,Tanjung Karang Pusat,6,Kaliawi,1,1871061006,5.4162783082754,2,105.24947759929,108.0,2,2,34,2,2,1,1,2,,,0,1,0,0,25700,7,5,0,0,0
+18,Lampung,71,Kota Bandar Lampung,60,Tanjung Karang Pusat,7,Kelapa Tiga,1,1871061007,5.4106687591502,2,105.24995026401,110.0,2,2,29,2,2,1,1,2,,,0,3,0,0,7287,7,0,0,0,1
+18,Lampung,71,Kota Bandar Lampung,60,Tanjung Karang Pusat,10,Pasir Gintung,1,1871061010,5.4042833264416,2,105.2566835066,103.0,2,2,22,2,2,1,1,2,,,0,2,0,0,22633,7,1,1,0,2
+18,Lampung,71,Kota Bandar Lampung,60,Tanjung Karang Pusat,13,Kaliawi Persada,1,1871061012,5.4124390222684,2,105.24598612317,125.0,2,2,11,2,2,1,1,2,,,0,1,0,0,13159,7,0,0,0,1
+18,Lampung,71,Kota Bandar Lampung,61,Enggal,1,Gunung Sari,1,1871171004,5.4079264120023,2,105.25761545872,107.0,2,2,16,2,2,1,1,2,,,0,0,0,0,13476,7,0,0,0,0
+18,Lampung,71,Kota Bandar Lampung,61,Enggal,2,Tanjung Karang,1,1871171003,5.4148469368373,2,105.25709820299,108.0,2,2,17,3,2,1,1,2,,,0,0,0,0,13571,7,0,0,0,0
+18,Lampung,71,Kota Bandar Lampung,61,Enggal,3,Pelita,1,1871171002,5.4155158019953,2,105.25696442996,99.0,2,2,13,3,2,1,1,2,,,0,2,0,0,4998,17,0,0,0,1
+18,Lampung,71,Kota Bandar Lampung,61,Enggal,4,Enggal,1,1871171001,5.4253971699297,2,105.26203888696,117.0,2,2,23,3,2,1,1,2,,,1,1,0,0,9143,17,0,0,1,2
+18,Lampung,71,Kota Bandar Lampung,61,Enggal,5,Rawa Laut,1,1871171005,5.4244696769106,2,105.26512458489,103.0,2,2,25,2,2,1,1,2,,,0,3,0,0,7554,14,2,1,4,3
+18,Lampung,71,Kota Bandar Lampung,61,Enggal,6,Pahoman,1,1871171006,5.4303066401896,2,105.27311083488,93.0,2,2,19,3,2,1,1,2,,,1,1,0,0,4576,14,1,0,0,0
+18,Lampung,71,Kota Bandar Lampung,70,Tanjung Karang Barat,2,Susunan Baru,1,1871031004,5.402477390515,2,105.23095895262,186.0,2,2,11,2,2,1,1,2,,,0,1,0,1,2231,9,2,0,1,0
+18,Lampung,71,Kota Bandar Lampung,70,Tanjung Karang Barat,3,Sukadana Ham,1,1871031006,5.4225522634576,2,105.22939380815,281.0,2,2,13,2,2,1,1,2,,,0,0,0,0,1367,1,1,0,0,0
+18,Lampung,71,Kota Bandar Lampung,70,Tanjung Karang Barat,4,Sukajawa,1,1871031002,5.4051573102481,2,105.24887116155,116.0,2,2,20,2,2,1,1,2,,,0,1,0,1,31830,9,3,1,0,0
+18,Lampung,71,Kota Bandar Lampung,70,Tanjung Karang Barat,5,Gedong Air,1,1871031001,5.4000115076324,2,105.2452637488,145.0,2,2,39,2,2,1,1,2,,,0,6,0,0,11560,9,6,1,0,0
+18,Lampung,71,Kota Bandar Lampung,70,Tanjung Karang Barat,6,Segala Mider,1,1871031011,5.3867456819984,2,105.24468406566,131.0,2,2,25,2,2,1,1,2,,,1,4,0,0,9969,5,1,1,1,2
+18,Lampung,71,Kota Bandar Lampung,70,Tanjung Karang Barat,10,Sukajawa Baru,1,1871031010,5.40673137292,2,105.25283976149,107.0,2,2,18,2,2,1,1,2,,,0,4,0,0,8855,7,3,0,0,0
+18,Lampung,71,Kota Bandar Lampung,70,Tanjung Karang Barat,13,Kelapa Tiga Permai,1,1871031008,5.4085729816551,2,105.24294947535,122.0,2,2,12,2,2,1,1,2,,,0,0,0,0,9185,7,0,0,0,0
+18,Lampung,71,Kota Bandar Lampung,71,Kemiling,1,Sumber Agung,1,1871131005,5.41557822941,2,105.18927081687,372.0,2,2,20,2,2,1,1,1,1,12,1,2,0,0,1042,1,1,0,0,1
+18,Lampung,71,Kota Bandar Lampung,71,Kemiling,2,Kedaung,1,1871131006,5.4115115292493,2,105.20883735229,317.0,2,2,13,2,2,1,1,2,,,0,1,0,0,627,17,0,0,0,0
+18,Lampung,71,Kota Bandar Lampung,71,Kemiling,3,Pinang Jaya,1,1871131007,5.3972290285751,2,105.19500076172,271.0,2,2,23,2,2,1,1,2,,,0,1,0,0,4109,17,2,1,0,3
+18,Lampung,71,Kota Bandar Lampung,71,Kemiling,4,Beringin Raya,1,1871131010,5.397304833293,2,105.20474835663,267.0,2,2,50,2,2,1,1,2,,,0,5,0,0,8513,14,0,0,1,0
+18,Lampung,71,Kota Bandar Lampung,71,Kemiling,5,Sumber Rejo,1,1871131001,5.3915615111362,2,105.2126677201,238.0,2,2,26,2,2,1,1,2,,,0,4,0,0,5920,17,5,0,0,1
+18,Lampung,71,Kota Bandar Lampung,71,Kemiling,6,Kemiling Permai,1,1871131004,5.3789779279633,2,105.21168671787,184.0,2,2,54,2,2,1,1,2,,,0,4,0,0,18735,14,2,0,1,0
+18,Lampung,71,Kota Bandar Lampung,71,Kemiling,8,Sumberrejo Sejahtera,1,1871131008,5.3950217735536,2,105.21830848293,224.0,2,2,31,2,2,1,1,2,,,0,1,0,0,4097,17,1,0,0,1
+18,Lampung,71,Kota Bandar Lampung,71,Kemiling,9,Beringin Jaya,1,1871131003,5.3997796343777,2,105.20897112532,258.0,2,2,28,2,2,1,1,2,,,0,2,0,0,2811,17,2,0,1,0
+18,Lampung,71,Kota Bandar Lampung,71,Kemiling,10,Kemiling Raya,1,1871131009,5.3900052848685,2,105.21567315421,234.0,2,2,15,2,2,1,1,2,,,0,1,0,0,2644,17,0,2,1,3
+18,Lampung,71,Kota Bandar Lampung,72,Langkapura,1,Bilabong Jaya,1,1871161005,5.401309106039,2,105.2283325421,178.0,2,2,6,2,2,1,1,2,,,0,1,0,0,2026,14,0,0,0,0
+18,Lampung,71,Kota Bandar Lampung,72,Langkapura,2,Langkapura,1,1871161001,5.3912627513656,2,105.22868481108,182.0,2,2,18,2,2,1,1,2,,,0,3,0,0,8866,8,5,1,0,0
+18,Lampung,71,Kota Bandar Lampung,72,Langkapura,3,Langkapura Baru,1,1871161002,5.3955078155685,2,105.2266470019,191.0,2,2,13,2,2,1,1,2,,,0,0,0,0,6307,8,0,1,0,0
+18,Lampung,71,Kota Bandar Lampung,72,Langkapura,4,Gunung Terang,1,1871161003,5.3888414594936,2,105.23207818698,171.0,2,2,28,2,2,1,1,2,,,0,7,0,0,6258,8,3,2,0,1
+18,Lampung,71,Kota Bandar Lampung,72,Langkapura,5,Gunung Agung,1,1871161006,5.3945089769325,2,105.23719723499,161.0,2,2,14,2,2,1,1,2,,,0,2,0,0,6231,8,3,1,1,0
+18,Lampung,71,Kota Bandar Lampung,80,Kedaton,1,Sukamenanti,1,1871011005,5.3947051773788,2,105.25137717634,130.0,2,2,10,3,2,1,1,2,,,0,2,0,0,28790,17,2,0,0,0
+18,Lampung,71,Kota Bandar Lampung,80,Kedaton,2,Sidodadi,1,1871011006,5.3932336740312,2,105.25928316251,117.2,2,2,28,3,2,1,1,2,,,0,6,0,1,9717,7,1,2,0,1
+18,Lampung,71,Kota Bandar Lampung,80,Kedaton,3,Surabaya,1,1871011004,5.392881405048,2,105.26339445368,113.0,2,2,34,3,2,1,1,2,,,1,1,0,0,9042,17,2,0,0,0
+18,Lampung,71,Kota Bandar Lampung,80,Kedaton,5,Kedaton,1,1871011003,5.3836778204737,2,105.25936342633,116.0,2,2,36,3,2,1,1,2,,,0,5,0,2,8818,17,1,1,0,3
+18,Lampung,71,Kota Bandar Lampung,80,Kedaton,16,Sukamenanti Baru,1,1871011009,5.3977418251962,2,105.25657648817,114.0,2,2,11,2,2,1,1,2,,,0,1,0,0,20233,17,1,0,0,2
+18,Lampung,71,Kota Bandar Lampung,80,Kedaton,18,Penengahan,1,1871011010,5.3986960728217,2,105.2571249576,96.0,2,2,11,3,2,1,1,2,,,0,1,0,0,21014,17,3,0,0,0
+18,Lampung,71,Kota Bandar Lampung,80,Kedaton,19,Penengahan Raya,1,1871011012,5.4008230640242,2,105.2549935073,106.0,2,2,11,2,2,1,1,2,,,0,0,0,0,11023,17,4,0,1,0
+18,Lampung,71,Kota Bandar Lampung,81,Rajabasa,1,Gedong Meneng,1,1871101002,5.374197771634,2,105.23940003091,134.0,2,2,15,3,2,1,1,2,,,0,4,0,0,3602,7,1,3,1,3
+18,Lampung,71,Kota Bandar Lampung,81,Rajabasa,2,Rajabasa,1,1871101001,5.3599910756778,2,105.23555628581,121.0,2,2,12,3,2,1,1,2,,,0,3,0,0,14143,7,1,1,0,1
+18,Lampung,71,Kota Bandar Lampung,81,Rajabasa,3,Rajabasa Raya,1,1871101008,5.3527762501733,2,105.23916815766,124.0,2,2,20,3,2,1,1,2,,,0,6,0,4,2830,7,1,1,0,2
+18,Lampung,71,Kota Bandar Lampung,81,Rajabasa,4,Rajabasa Jaya,1,1871101009,5.3424712676388,2,105.24812203257,101.0,2,2,20,3,2,1,1,2,,,0,4,0,2,3436,1,3,0,1,0
+18,Lampung,71,Kota Bandar Lampung,81,Rajabasa,5,Gedong Meneng Baru,1,1871101007,5.3775420974241,2,105.24648108339,129.0,2,2,6,3,2,1,1,2,,,0,2,0,0,1039,7,0,1,0,1
+18,Lampung,71,Kota Bandar Lampung,81,Rajabasa,6,Rajabasa Pemuka,1,1871101006,5.3684812040835,2,105.22109988019,132.0,2,2,18,3,2,1,1,2,,,0,6,0,0,4097,7,0,2,0,2
+18,Lampung,71,Kota Bandar Lampung,81,Rajabasa,7,Rajabasa Nunyai,1,1871101005,5.3697208341764,2,105.23083409779,131.0,2,2,20,3,2,1,1,2,,,0,2,0,1,4014,7,3,0,1,0
+18,Lampung,71,Kota Bandar Lampung,82,Tanjung Senang,1,Labuhan Dalam,1,1871111003,5.3599152709599,2,105.25915384858,112.0,2,2,22,3,2,1,1,2,,,0,2,0,0,2497,7,3,1,2,0
+18,Lampung,71,Kota Bandar Lampung,82,Tanjung Senang,2,Tanjung Senang,1,1871111001,5.3694934200227,2,105.27995109589,97.0,2,2,32,3,2,1,1,2,,,0,2,0,1,13115,7,1,0,0,1
+18,Lampung,71,Kota Bandar Lampung,82,Tanjung Senang,3,Way Kandis,1,1871111002,5.3508097866087,2,105.28787937757,104.0,2,2,22,3,2,1,1,2,,,0,1,0,0,9497,7,2,2,0,2
+18,Lampung,71,Kota Bandar Lampung,82,Tanjung Senang,4,Perumnas Way Kandis,1,1871111004,5.3647623138049,2,105.28820043284,100.0,2,2,31,3,2,1,1,2,,,0,2,0,0,5391,7,3,0,0,0
+18,Lampung,71,Kota Bandar Lampung,82,Tanjung Senang,5,Pematang Wangi,1,1871111005,5.3576589658268,2,105.27907711209,94.0,2,2,19,3,2,1,1,2,,,1,2,0,0,4366,1,1,0,0,1
+18,Lampung,71,Kota Bandar Lampung,83,Labuhan Ratu,6,Labuhan Ratu,1,1871141001,5.3772210421483,2,105.25305379834,142.0,2,2,26,3,2,1,1,2,,,0,4,0,0,5695,9,2,1,1,2
+18,Lampung,71,Kota Bandar Lampung,83,Labuhan Ratu,9,Kampung Baru,1,1871141007,5.3663898856895,2,105.24944638559,107.0,2,2,10,3,2,1,1,2,,,0,6,0,1,3082,9,2,0,1,0
+18,Lampung,71,Kota Bandar Lampung,83,Labuhan Ratu,13,Sepang Jaya,1,1871141003,5.3719459256021,2,105.27027930571,123.0,2,2,23,2,2,1,1,2,,,0,4,0,0,6752,6,1,1,0,1
+18,Lampung,71,Kota Bandar Lampung,83,Labuhan Ratu,14,Labuhan Ratu Raya,1,1871141002,5.3705546860734,2,105.25333472171,118.0,2,2,21,3,2,1,1,2,,,0,5,0,0,5429,14,1,1,0,1
+18,Lampung,71,Kota Bandar Lampung,83,Labuhan Ratu,15,Kota Sepang,1,1871141004,5.3747239455583,2,105.26333202627,115.0,2,2,13,3,2,1,1,2,,,0,3,0,0,1676,6,1,0,0,0
+18,Lampung,71,Kota Bandar Lampung,83,Labuhan Ratu,17,Kampung Baru Raya,1,1871141006,5.3611103100422,2,105.25222440554,110.0,2,2,7,3,2,1,1,2,,,0,3,0,0,1187,6,1,0,0,0
+18,Lampung,71,Kota Bandar Lampung,90,Sukarame,5,Sukarame,1,1871021003,5.3897243615021,2,105.29360932242,108.0,2,2,34,3,2,1,1,2,,,0,5,0,2,9806,6,1,3,0,0
+18,Lampung,71,Kota Bandar Lampung,90,Sukarame,9,Way Dadi,1,1871021004,5.3852786377519,2,105.2905548382,123.7,2,2,16,3,2,1,1,2,,,0,5,0,2,5117,7,1,1,0,2
+18,Lampung,71,Kota Bandar Lampung,90,Sukarame,11,Korpri Jaya,1,1871021008,5.376944577883,2,105.30499786651,117.5,2,2,14,3,2,1,1,1,1,4,0,2,0,1,2894,6,1,0,0,0
+18,Lampung,71,Kota Bandar Lampung,90,Sukarame,12,Way Dadi Baru,1,1871021007,5.3766681136177,2,105.28944452204,111.8,2,2,25,3,2,1,1,2,,,0,8,0,1,3612,7,1,0,1,0
+18,Lampung,71,Kota Bandar Lampung,90,Sukarame,13,Korpri Raya,1,1871021009,5.3655560337925,2,105.29916536233,133.0,2,2,19,3,2,1,1,1,1,25,1,3,0,2,3001,14,1,1,1,0
+18,Lampung,71,Kota Bandar Lampung,90,Sukarame,14,Sukarame Baru,1,1871021006,5.3866654181795,2,105.31222161022,113.0,2,2,17,3,2,1,1,1,2,,1,10,0,0,2822,6,1,1,2,1
+18,Lampung,71,Kota Bandar Lampung,91,Sukabumi,5,Sukabumi Indah,1,1871121004,5.4027538547803,2,105.29252576086,102.0,2,2,35,2,2,1,1,2,,,0,3,0,0,3603,14,1,0,0,0
+18,Lampung,71,Kota Bandar Lampung,91,Sukabumi,6,Sukabumi,1,1871121002,5.3959849393812,2,105.30363784069,105.0,2,2,43,3,2,1,1,2,,,0,6,0,0,8161,7,2,1,0,3
+18,Lampung,71,Kota Bandar Lampung,91,Sukabumi,7,Nusantara Permai,1,1871121008,5.4030526145509,2,105.30476599326,81.0,2,2,9,2,2,1,1,2,,,0,4,0,1,2102,14,0,1,0,0
+18,Lampung,71,Kota Bandar Lampung,91,Sukabumi,8,Campang Raya,1,1871121007,5.4066377317979,2,105.30152868589,88.0,2,2,15,2,2,1,1,2,,,0,1,0,0,2275,3,3,0,1,0
+18,Lampung,71,Kota Bandar Lampung,91,Sukabumi,9,Campang Jaya,1,1871121009,5.4178033208357,2,105.32604928258,133.0,2,2,20,2,2,1,1,2,,,0,2,0,0,1824,6,3,0,0,0
+18,Lampung,71,Kota Bandar Lampung,91,Sukabumi,10,Way Gubak,2,1871121010,5.4290001235809,2,105.2994507448,83.0,2,2,11,2,2,1,1,2,,,0,1,0,0,963,3,2,0,0,0
+18,Lampung,71,Kota Bandar Lampung,91,Sukabumi,11,Way Laga,1,1871121011,5.4326209136363,2,105.32710163043,131.0,2,2,23,2,2,1,1,2,,,0,3,0,0,2010,6,3,0,0,2
+18,Lampung,71,Kota Bandar Lampung,92,Way Halim,1,Jagabaya I,1,1871151004,5.4019422983886,2,105.26416587816,91.0,2,2,11,3,2,2,1,2,,,0,0,0,0,19406,7,1,0,0,0
+18,Lampung,71,Kota Bandar Lampung,92,Way Halim,2,Jagabaya Ii,1,1871151005,5.3983348856363,2,105.2647232658,100.0,2,2,32,3,2,1,1,2,,,0,5,0,2,16184,3,0,0,0,1
+18,Lampung,71,Kota Bandar Lampung,92,Way Halim,3,Jagabaya Iii,1,1871151006,5.3961097942107,2,105.27444410609,99.0,2,2,17,3,2,1,1,2,,,0,2,0,0,8558,7,1,1,0,0
+18,Lampung,71,Kota Bandar Lampung,92,Way Halim,4,Gunung Sulah,1,1871151003,5.3908346776644,2,105.27166608614,104.0,2,2,32,2,2,1,1,2,,,0,1,0,0,14823,3,2,0,1,0
+18,Lampung,71,Kota Bandar Lampung,92,Way Halim,5,Way Halim Permai,1,1871151002,5.3841683215895,2,105.27249993803,106.0,2,2,38,3,2,1,1,2,,,0,6,0,0,11464,14,2,2,0,2
+18,Lampung,71,Kota Bandar Lampung,92,Way Halim,6,Perumnas Way Halim,1,1871151001,5.3763871902513,2,105.2727764023,107.0,2,2,53,3,2,1,1,2,,,0,4,0,0,11908,7,3,3,0,0
