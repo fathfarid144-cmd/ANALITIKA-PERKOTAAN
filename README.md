@@ -13,7 +13,7 @@ Analisis ini menjawab 3 pertanyaan utama kebijakan perencanaan pendidikan dasar:
 
 ---
 
-## 📊 Ringkasan Temuan & Output Analisis
+## 📊 Hasil Analisis & Visualisasi Output
 
 ### 1. Keterjangkauan Jaringan Jalan vs Buffer 1 km (P1)
 * **Jarak Tempuh Riil:** Median jarak jalan kaki kelurahan ke SDN terdekat adalah **645 meter** (rata-rata 759 m, maksimum 3.651 m).
@@ -24,17 +24,45 @@ Analisis ini menjawab 3 pertanyaan utama kebijakan perencanaan pendidikan dasar:
   3. *Campang Jaya* (Kec. Sukabumi) — 1.762 m
 * **Evaluasi Bias Buffer:** Pengukuran garis lurus terbukti menyamarkan kesenjangan; terdapat **13 kelurahan** yang tampak terlayani jika diukur dengan radius 1 km, padahal jarak jaringan jalannya > 1.000 m akibat pola rute memutar dan kontur berbukit.
 
+![Peta 1 dan Peta 2: Jarak Jaringan vs Buffer 1 km](uas-ra-kelompok1/data/clean/gambar/peta1_peta2_jarak_vs_buffer.png)
+*Peta 1 (kiri): Jarak jaringan jalan kaki ke SDN terdekat | Peta 2 (kanan): Jumlah SDN dalam radius buffer 1.000 m.*
+
+![Grafik 1: Perubahan Peringkat 15 Kelurahan Terjauh](uas-ra-kelompok1/data/clean/gambar/grafik1_perubahan_peringkat.png)
+*Grafik 1: Perubahan peringkat kekritisan 15 kelurahan terjauh (Jarak Jaringan vs Buffer 1 km).*
+
+---
+
 ### 2. Kepadatan Penduduk vs Rasio Layanan (P2)
 * **Korelasi Spearman ($\rho = -0,75$, $p < 0,001$):** Hubungan negatif kuat. Kelurahan dengan kepadatan penduduk tinggi memiliki rasio SD per 1.000 anak yang jauh lebih rendah.
 * **Korelasi Kepadatan vs Jarak ($\rho = -0,62$, $p < 0,001$):** Kelurahan padat secara fisik dekat dengan sekolah, namun menghadapi beban rasio peserta didik yang tinggi (*overcrowded*).
-* **Korelasi Kepadatan vs Jumlah Unit SD ($\rho = 0,11$, $p = 0,22$):** Tidak signifikan, menunjukkan bahwa alokasi gedung SD Negeri secara historis belum mengikuti konsentrasi sebaran anak usia sekolah.
+* **Korelasi Kepadatan vs Jumlah Unit SD ($\rho = 0,11$, $p = 0,22$):** Tidak signifikan, menunjukkan bahwa alokasi unit SD Negeri secara historis belum mengikuti konsentrasi sebaran anak usia sekolah.
+
+![Grafik 2: Sebaran dan Pencilan 3 Indikator Utama](uas-ra-kelompok1/data/clean/gambar/grafik2_boxplot_indikator.png)
+*Grafik 2: Boxplot sebaran kepadatan penduduk, rasio SD/1.000 anak, dan jarak tempuh jaringan jalan.*
+
+![Grafik 3: Scatter Plot Kepadatan vs Rasio SD](uas-ra-kelompok1/data/clean/gambar/grafik3_scatter_kepadatan_rasio.png)
+*Grafik 3: Kuadran hubungan kepadatan penduduk vs rasio SD per 1.000 anak (titik merah = padat rasio rendah).*
+
+![Grafik 4: Sebaran Jarak ke SD Negeri per Kecamatan](uas-ra-kelompok1/data/clean/gambar/grafik4_jarak_per_kecamatan.png)
+*Grafik 4: Sebaran jarak tempuh jalan kaki ke SDN per kecamatan (diurutkan menurut median).*
+
+---
 
 ### 3. Tipologi Kelurahan & Prioritas Kebijakan (P3)
-Berdasarkan clustering *K-Means* ($k=4$), kelurahan dikelompokkan ke dalam 4 tipologi untuk intervensi yang terarah:
+Berdasarkan clustering *K-Means* ($k=4$), kelurahan dikelompokkan ke dalam 4 tipologi:
 1. **Klaster A — Kritis Jangkauan (33 kelurahan):** Jarak jauh (rata-rata 1.341 m), rasio ketersediaan sekolah rendah.
 2. **Klaster B — Padat & Beban Tinggi (28 kelurahan):** Dekat sekolah (rata-rata 417 m), namun kepadatan sangat tinggi (rata-rata 14.801 jiwa/km²) dan beban murid per sekolah berat.
 3. **Klaster C — Terlayani Baik (36 kelurahan):** Jarak dekat dan rasio sekolah mencukupi.
 4. **Klaster D — Bergantung pada Kelurahan Sekitar (29 kelurahan):** Tidak memiliki gedung SD di dalam batas administrasi, namun aksesibilitas jalan ke SD di kelurahan tetangga masih memadai.
+
+![Grafik 5: Evaluasi Elbow dan Silhouette K-Means](uas-ra-kelompok1/data/clean/gambar/grafik5_elbow_silhouette.png)
+*Grafik 5: Penentuan jumlah klaster optimal k=4 melalui kurva Elbow (inersia) dan skor Silhouette.*
+
+![Grafik 6: Profil Pusat Klaster K-Means](uas-ra-kelompok1/data/clean/gambar/grafik6_profil_klaster.png)
+*Grafik 6: Heatmap z-score pusat klaster untuk 4 indikator perencanaan.*
+
+![Peta 3 dan Peta 4: Tipologi Klaster dan Peta Prioritas Intervensi](uas-ra-kelompok1/data/clean/gambar/peta3_peta4_klaster_prioritas.png)
+*Peta 3 (kiri): Sebaran tipologi klaster kelurahan | Peta 4 (kanan): Peta arahan prioritas intervensi (USB, RKB, dan Non-Fisik).*
 
 ---
 
@@ -48,7 +76,7 @@ Berdasarkan clustering *K-Means* ($k=4$), kelurahan dikelompokkan ke dalam 4 tip
 
 ---
 
-## 📁 Struktur Berkas Output
+## 📁 Struktur Berkas Repository
 
 ```text
 uas-ra-kelompok1/
